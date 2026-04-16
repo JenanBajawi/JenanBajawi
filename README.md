@@ -20,5 +20,5 @@ Umm Al-Qura University
 - Git & GitHub
 
 ## 📫 Contact Me
-- LinkedIn: (حطي الرابط)
-- Email: (إيميلك)
+- LinkedIn: ((https://www.linkedin.com/in/jenan-bajawi-40596b230))
+- Email: (jenanbajawi89@gmail.com)
