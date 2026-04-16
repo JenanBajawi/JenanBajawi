@@ -43,8 +43,8 @@ Bachelor in Artificial Intelligence | Umm Al-Qura University | Aug 2023 - Jun 20
 
 ### 🤖 AI & Machine Learning
 - Machine Learning (Supervised & Unsupervised)
-- Neural Networks (Basics)
-- Computer Vision (Basics)
+- Neural Networks 
+- Computer Vision 
 
 ### 📊 Data & Analysis
 - Pandas, NumPy
