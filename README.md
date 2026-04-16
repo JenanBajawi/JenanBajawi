@@ -36,7 +36,30 @@ Bachelor in Artificial Intelligence | Umm Al-Qura University | Aug 2023 - Jun 20
 - **AI Techniques:** Computer Vision Basics, Neural Networks (Fundamentals)  
 - **Databases:** SQL  
 - **Tools:** Jupyter Notebook, Google Colab, Git, GitHub  
+## 🚀 Skills
 
+### 👩‍💻 Programming Languages
+![Languages](https://skillicons.dev/icons?i=python,java)
+
+### 🤖 AI & Machine Learning
+![AI](https://skillicons.dev/icons?i=python)
+- Machine Learning (Supervised & Unsupervised)
+- Neural Networks (Basics)
+- Computer Vision (Basics)
+
+### 📊 Data & Analysis
+![Data](https://skillicons.dev/icons?i=python)
+- Pandas, NumPy
+- Data Cleaning & Preprocessing
+- Data Visualization
+
+### 🗄️ Databases
+![DB](https://skillicons.dev/icons?i=mysql)
+- SQL, Database Management
+
+### 🛠️ Tools
+![Tools](https://skillicons.dev/icons?i=git,github)
+- Jupyter Notebook, Google Colab
 ## 📫 Contact Me
 - LinkedIn: ((https://www.linkedin.com/in/jenan-bajawi-40596b230))
 - Email: (jenanbajawi89@gmail.com)
