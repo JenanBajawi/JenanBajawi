@@ -1,17 +1,31 @@
 # Hello 👋, I'm Jenan
 
 Welcome to my profile 💖
-
 ## ✨ About Me
-- 🎓 AI Student (3rd Year)
-- 💻 Interested in Machine Learning & Data Science
-- 📚 Currently learning Python, Deep Learning
-- 🎯 Goal: Become an AI Engineer
+- 🇸🇦 I’m a Saudi Artificial Intelligence student passionate about building intelligent systems and solving real-world problems using data-driven approaches.
+- 🤖 Experienced in Machine Learning, Data Analysis, and Computer Vision through hands-on academic projects.
+- 📊 Skilled in Python, data preprocessing, and model building using libraries like Pandas, Scikit-learn, XGBoost, and LightGBM.
+- 🚀 Currently expanding my knowledge in Deep Learning and advanced AI techniques.
+- 🎯 My goal is to become an AI Engineer capable of developing smart, scalable, and impactful solutions.
+- 💡 What sets me apart is my curiosity, consistency, and ability to quickly learn and apply new technologies — I embrace challenges and turn them into growth opportunities.
+
+---
 
 ## 🎓 Education
-Bachelor in Artificial Intelligence  
-Umm Al-Qura University  
-2022 - 2026
+Bachelor in Artificial Intelligence | Umm Al-Qura University | Aug 2023 - Jun 2027  
+
+### 📚 Key Coursework:
+
+- **Machine Learning & AI:** Machine Learning, Deep Learning (Fundamentals), Data Mining, Artificial Intelligence Concepts  
+- **Data Analysis & Visualization:** Exploratory Data Analysis, Statistical Analysis, Data Visualization  
+- **Programming & Foundations:** Python Programming, Java, Object-Oriented Programming, Algorithms & Data Structures  
+- **Data & Databases:** Database Management Systems, SQL, Data Modeling  
+- **Computer Vision & Applications:** Image Processing Basics, Computer Vision Fundamentals  
+- **Mathematics for AI:** Calculus for Machine Learning, Optimization Techniques  
+- **Systems & Infrastructure:** Operating Systems, Computer Networks, Cloud Computing Fundamentals  
+- **Security & Governance:** Information Security Basics  
+
+---
 
 ## 💻 Skills
 - Python
