@@ -27,15 +27,6 @@ Bachelor in Artificial Intelligence | Umm Al-Qura University | Aug 2023 - Jun 20
 
 ---
 
-## 💻 Skills
-
-- **Programming:** Python, Java, OOP  
-- **Machine Learning:** Model Training, Evaluation, and Prediction  
-- **Data Handling:** Data Cleaning, Preprocessing, and Visualization  
-- **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn  
-- **AI Techniques:** Computer Vision Basics, Neural Networks (Fundamentals)  
-- **Databases:** SQL  
-- **Tools:** Jupyter Notebook, Google Colab, Git, GitHub  
 ## 🚀 Skills
 
 ### 👩‍💻 Programming Languages
@@ -43,8 +34,8 @@ Bachelor in Artificial Intelligence | Umm Al-Qura University | Aug 2023 - Jun 20
 
 ### 🤖 AI & Machine Learning
 - Machine Learning (Supervised & Unsupervised)
-- Neural Networks 
-- Computer Vision 
+- Neural Networks
+- Computer Vision
 
 ### 📊 Data & Analysis
 - Pandas, NumPy
