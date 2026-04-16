@@ -1,4 +1,4 @@
-# Hello 👋, I'm Jenan
+# Hello 👋, I'm Jenan Bajawi
 
 Welcome to my profile 💖
 ## ✨ About Me
@@ -28,10 +28,14 @@ Bachelor in Artificial Intelligence | Umm Al-Qura University | Aug 2023 - Jun 20
 ---
 
 ## 💻 Skills
-- Python
-- Machine Learning
-- Data Analysis
-- Git & GitHub
+
+- **Programming:** Python, Java, OOP  
+- **Machine Learning:** Model Training, Evaluation, and Prediction  
+- **Data Handling:** Data Cleaning, Preprocessing, and Visualization  
+- **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn  
+- **AI Techniques:** Computer Vision Basics, Neural Networks (Fundamentals)  
+- **Databases:** SQL  
+- **Tools:** Jupyter Notebook, Google Colab, Git, GitHub  
 
 ## 📫 Contact Me
 - LinkedIn: ((https://www.linkedin.com/in/jenan-bajawi-40596b230))
