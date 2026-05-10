@@ -2,7 +2,7 @@
 
 Welcome to my profile 💖
 ## ✨ About Me
-- 🇸🇦 I’m a Saudi Artificial Intelligence student passionate about building intelligent systems and solving real-world problems using data-driven approaches.
+-  I’m a Saudi Artificial Intelligence student passionate about building intelligent systems and solving real-world problems using data-driven approaches.
 - 🤖 Experienced in Machine Learning, Data Analysis, and Computer Vision through hands-on academic projects.
 - 📊 Skilled in Python, data preprocessing, and model building using libraries like Pandas, Scikit-learn, XGBoost, and LightGBM.
 - 🚀 Currently expanding my knowledge in Deep Learning and advanced AI techniques.
